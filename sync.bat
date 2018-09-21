@@ -1,0 +1,1 @@
+echo rock_in_live | D:\code\pscp.exe -r D:\code\crypto_bot\ root@192.168.0.112:/opt/crypto/
